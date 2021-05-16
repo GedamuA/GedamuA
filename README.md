@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Gedamu A
+- 👋 Hi, I’m  Gedamu Alemu
 - 👀 I’m interested in Video Analysis, Action Recognition.
 - 🌱 I’m currently learning  Domain Adapption for Human Action recogntion ( GAN, Attention, Domain Adaption)
 - 💞️ I’m looking to collaborate on ...
